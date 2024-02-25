@@ -4,7 +4,7 @@
 /**
  * 
  */
-module Selenium_intro {
+public void Selenium_intro() {
 	
 	system.out.println("hello");
 }
